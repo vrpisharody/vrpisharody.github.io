@@ -1,4 +1,4 @@
-vrpisharody.github.io
+My Github Pages
 =====================
 
-My Github Pages
+Coursera Project Pages
